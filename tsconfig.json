@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "noImplicitAny": true,
+        "outFile": "dist/bundle.js",
+        "sourceMap": true,
+        "typeRoots" : ["../typings"]
+    },
+    "files": [
+        "src/main.ts"
+    ]
+}
